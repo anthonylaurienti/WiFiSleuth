@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WiFi Sleuth</string>
+    <string name="ssid">SSID </string>
+    <string name="rssi"> RSSI </string>
+</resources>
